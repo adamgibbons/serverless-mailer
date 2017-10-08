@@ -1,0 +1,7 @@
+{
+  "aws": {
+    "accessKeyId": "foo",
+    "secretAccessKey": "bar",
+    "region": "us-east-1"
+  }
+}
