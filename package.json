@@ -1,0 +1,23 @@
+{
+  "name": "serverless-mailer",
+  "version": "0.1.0",
+  "description": "Send email using Serverless and several AWS products (Lambda, SES, API Gateway).",
+  "main": "handler.js",
+  "dependencies": {
+    "aws-sdk": "^2.130.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamgibbons/serverless-mailer.git"
+  },
+  "author": "Adam Gibbons <adam@agibbons.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamgibbons/serverless-mailer/issues"
+  },
+  "homepage": "https://github.com/adamgibbons/serverless-mailer#readme"
+}
